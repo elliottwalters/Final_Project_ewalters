@@ -20,3 +20,5 @@ a. ethical behvior missions statement)
 
 
 Data set 1 retrieved from : https://trends.collegeboard.org/college-pricing/figures-tables/tuition-fees-room-and-board-over-time
+
+Data set 2 calculate inflation here: https://www.bls.gov/data/inflation_calculator.htm might need some trial and error. biggest jumps start at 2008
