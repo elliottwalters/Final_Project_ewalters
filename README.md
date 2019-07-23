@@ -17,3 +17,6 @@ b. ignore supply and demand/ prisoners dillema
 3. Universities need to level off their tuition and develop more pipelines into buisnesses in new developing areas.
 
 a. ethical behvior missions statement)
+
+
+Data set 1 retrieved from : https://trends.collegeboard.org/college-pricing/figures-tables/tuition-fees-room-and-board-over-time
