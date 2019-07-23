@@ -18,6 +18,7 @@ b. ignore supply and demand/ prisoners dillema
 
 a. ethical behvior missions statement)
 
+![image](chart 1.jpg)
 
 Data set 1 retrieved from : https://trends.collegeboard.org/college-pricing/figures-tables/tuition-fees-room-and-board-over-time
 
