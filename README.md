@@ -2,6 +2,7 @@
 
 https://elliottwalters.github.io/Final_Project_ewalters/
 
+After talking to some people I found out my data was not interesting and very confusing. The feedback was that it had no point. This caused me to pivot with what I was trying to explain with this data. Hence,
 
 NEW OUTLINE:
 
@@ -18,6 +19,8 @@ Thesis: Student Loan Crisis is much different than we think.
 5: Why? many people get price breaks to go to uni.
 
 6: so why the issue? God I hope I find out in the next 5 days or this is a waste of time.
+
+7: Biggest issues: 1, no call to action or main point for this audience, would be very useful for my target audience. 2, not sure why this is an issue, looks like either holding to the four year grad rates or people dropping out.
 
 The original outline did not end upmatching the actual data I found or at least the part that was the most interesting. Instead I pivoted topics to start to cover the actual numbers behind student loans
 
