@@ -30,13 +30,15 @@ Data set 2 calculate inflation here: https://www.bls.gov/data/inflation_calculat
 
 The project itself will probably be made using Shorthand as that is the suggested method. That said the exact method I plan on using Shirthand for is still being decided. I found the site itself to be easy to use but the amount of tutorials I have been sitting through to be overwhelming. 
 
-![image](IMG_20190722_104423814.jpg)
+![image](IMG_20190722_1044238147.jpg)
 
 Wireframe on paper image.
 
 ![image](IMG_20190731_142052519.jpg)
 
-A quick walkthrough of what this is. 1st chart is going to be students loan debt average per person in the USA. Suprising!
+A quick walkthrough of what this is. 
+
+1st chart is going to be students loan debt average per person in the USA. Suprising!
 
 2nd slide is the average salary in the use for people with a BA. Its alsomst the same growth. What? Why are we in a student loan crisis?
 
