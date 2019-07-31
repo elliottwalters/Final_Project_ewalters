@@ -35,7 +35,6 @@ Data set 2 calculate inflation here: https://www.bls.gov/data/inflation_calculat
 
 The project itself will probably be made using Shorthand as that is the suggested method. That said the exact method I plan on using Shirthand for is still being decided. I found the site itself to be easy to use but the amount of tutorials I have been sitting through to be overwhelming. 
 
-![image](IMG_20190722_1044238147.jpg)
 
 Wireframe on paper image.
 
