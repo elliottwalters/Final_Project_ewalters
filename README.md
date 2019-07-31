@@ -25,6 +25,9 @@ a. ethical behvior missions statement)
 
 ![image](chart 1.jpeg)
 
+
+![image](trial1.jpeg)
+
 The information for the first chart is going to come from these two graphs. The first one is a very quick and easy data source that looks at the average costs of college tuition prices. Right now I am on the fence about using total costs or just tuition. I thnk total costs will be more stark but it might be unrealistic because some of the housing costs may be smaller for some students by living at home or staying in lower cost housing off campus. 
 
 I am than going to add the itial costs and adjust those for inflation based on a government sourced inflation calculator to see how tuition has been outpaced by rising costs. Right now this is a major issue for many universities as they have expanded to accommodate a rising number of students to continue to grow but there are only so many new students that can be added.
