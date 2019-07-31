@@ -18,7 +18,7 @@ b. ignore supply and demand/ prisoners dillema
 
 a. ethical behvior missions statement)
 
-![image](chart 1.jpg)
+![image](chart1.jpg)
 
 The information for the first chart is going to come from these two graphs. The first one is a very quick and easy data source that looks at the average costs of college tuition prices. Right now I am on the fence about using total costs or just tuition. I thnk total costs will be more stark but it might be unrealistic because some of the housing costs may be smaller for some students by living at home or staying in lower cost housing off campus. 
 
