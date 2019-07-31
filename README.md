@@ -5,7 +5,24 @@ https://elliottwalters.github.io/Final_Project_ewalters/
 
 NEW OUTLINE:
 
-The original outline did not end upmatching the actual data I found. Or at least the part that was the most interesting. Instead I pivoted topics to start to cover the actual numbers behind student loans
+Thesis: Student Loan Crisis is much different than we think.
+
+1: university prices rises: A bunch
+
+2: debt has increased but not at the same pace
+
+3: salaries have almost kept pace with held debt
+
+4: 22% to 20% which match inflation of 2% over 10 years
+
+5: Why? many people get price breaks to go to uni.
+
+6: so why the issue? God I hope I find out in the next 5 days or this is a waste of time.
+
+The original outline did not end upmatching the actual data I found or at least the part that was the most interesting. Instead I pivoted topics to start to cover the actual numbers behind student loans
+
+
+OLD STUFF STARTS HERE
 
 I. Thesis: University's have been on an unsustainable upward growth. 
 
@@ -27,6 +44,8 @@ a. ethical behvior missions statement)
 
 
 ![image](trial1.jpeg)
+
+OLD STUFF ENDS HERE
 
 The information for the first chart is going to come from these two graphs. The first one is a very quick and easy data source that looks at the average costs of college tuition prices. Right now I am on the fence about using total costs or just tuition. I thnk total costs will be more stark but it might be unrealistic because some of the housing costs may be smaller for some students by living at home or staying in lower cost housing off campus. 
 
