@@ -32,9 +32,9 @@ The project itself will probably be made using Shorthand as that is the suggeste
 
 ![image](IMG_20190722_104423814.jpg)
 
+Wireframe on paper image.
 
-
-
+![image](IMG_20190731_142052519.jpg)
 
 
 
