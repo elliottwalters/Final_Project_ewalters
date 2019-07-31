@@ -62,6 +62,10 @@ Wireframe on paper image.
 
 ![image](IMG_20190731_142052519.jpg)
 
+Rough Drafts for first chart:
+
+https://infogram.com/app/#/edit/66ef6dda-0933-4119-ae7d-c9b0dad87277
+
 A quick walkthrough of what this is. 
 
 1st chart is going to be students loan debt average per person in the USA. Suprising!
