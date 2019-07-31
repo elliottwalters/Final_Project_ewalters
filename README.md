@@ -40,10 +40,10 @@ b. ignore supply and demand/ prisoners dillema
 
 a. ethical behvior missions statement)
 
-![image](chart 1.jpeg)
+![image] (chart 1.jpeg)
 
 
-![image](trial1.jpeg)
+![image] (trial1.jpeg)
 
 OLD STUFF ENDS HERE
 
