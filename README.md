@@ -67,6 +67,8 @@ Wireframe on paper image.
 
 Rough Drafts for first chart:
 
+![image](prep1.jpg)
+
 https://infogram.com/app/#/edit/66ef6dda-0933-4119-ae7d-c9b0dad87277
 
 A quick walkthrough of what this is. 
