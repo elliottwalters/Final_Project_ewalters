@@ -36,5 +36,25 @@ Wireframe on paper image.
 
 ![image](IMG_20190731_142052519.jpg)
 
+A quick walkthrough of what this is. 1st chart is going to be students loan debt average per person in the USA. Suprising!
+
+2nd slide is the average salary in the use for people with a BA. Its alsomst the same growth. What? Why are we in a student loan crisis?
+
+3Rd chart: add some number so people know what they are seeing. Gotta make it clear for them.
+
+4th chart: show why this is. The amount of tutition advertised does not match what is paid in most cases. in most cases people are cut a break so that while tuition has gone up debt has not. This is why you are seeing what is in the first slide.
+
+5th slide: This is where I figure out where the problem is. I think a big issue is that people take out loans and do not graduate but I need to look at more information.
+
+The first four charts are my hand written scribbles of how the data actually looks. The final slide is going to be dependant on the actual research and what is discovered.
+
+Most of the data was taken from The Federal Bank in St. Louis. The ease of access of data in excel format was quickest retrieved from there. 
+Retrieved from: https://fred.stlouisfed.org/
+
+Some of the information was also taken from the Fed. This data mostly matched the the St. Louis information. I just double checked it because it seemed so innaccurate
+Retrieved from: https://federalreserveonline.org/
+
+
+
 
 
