@@ -2,6 +2,11 @@
 
 https://elliottwalters.github.io/Final_Project_ewalters/
 
+
+NEW OUTLINE:
+
+The original outline did not end upmatching the actual data I found. Or at least the part that was the most interesting. Instead I pivoted topics to start to cover the actual numbers behind student loans
+
 I. Thesis: University's have been on an unsustainable upward growth. 
 
 1. Tuition growth (data set 1.)
